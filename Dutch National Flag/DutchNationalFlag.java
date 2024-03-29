@@ -1,5 +1,5 @@
 class Solution {
-    public void sortColors(int[] nums) {
+    public void sort012(int[] nums) {
         int p=0;
         int n= nums.length;
         for(int i=0;i<nums.length-1;i++){
